@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "frowning-orange-cheese",
-    "slug": "snack-2f0d96cd-bd7f-4e38-ba50-f660550811c1",
+    "name": "VetLab Pro App",
+    "slug": "vetlab-pro-app-slug",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -20,7 +19,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.farzan.vetlabpro" // 👈 شناسه اندروید: این خط مشکل قبلی را حل می کند
     },
     "web": {
       "favicon": "./assets/favicon.png"
