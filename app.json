@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.farzan.vetlabpro" // 👈 این خط مشکل نهایی را حل می کند
+      "package": "com.farzan.vetlabpro" // این خط، مشکل را حل می‌کند
     },
     "web": {
       "favicon": "./assets/favicon.png"
